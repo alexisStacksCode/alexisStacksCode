@@ -2,6 +2,8 @@
 
 https://en.pronouns.page/@thesiriussystem
 
+You can hit me up on Discord: thesiriussystem
+
 <!--
 **TheSiriusSystem/TheSiriusSystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
