@@ -1,8 +1,9 @@
 ### Hi there 👋
+**[My Pronouns](https://en.pronouns.page/@thesiriussystem)**
 
-https://en.pronouns.page/@thesiriussystem
-
-You can hit me up on Discord: thesiriussystem
+If you wanna hit me up, you can find me on the following:
+* **Discord:** thesiriussystem
+* **Steam:** [TheSiriusSystem](https://steamcommunity.com/id/thesiriussystem/)
 
 <!--
 **TheSiriusSystem/TheSiriusSystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
