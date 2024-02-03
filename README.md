@@ -1,7 +1,7 @@
 ### Hi there 👋
 **[My Pronouns](https://en.pronouns.page/@thesiriussystem)**
 
-If you wanna hit me up, you can find me on the following:
+If you wanna hit me up, you can add me on the following:
 * **Discord:** thesiriussystem
 * **Steam:** [TheSiriusSystem](https://steamcommunity.com/id/thesiriussystem/)
 
