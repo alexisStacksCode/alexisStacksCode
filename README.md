@@ -5,7 +5,7 @@ If you wanna hit me up, you can add me on the following:
 * **Discord:** thesiriussystem
 * **Steam:** [TheSiriusSystem](https://steamcommunity.com/id/thesiriussystem/)
 
-[![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TheSiriusSystem&show_icons=true&theme=calm_pink#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TheSiriusSystem&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=TheSiriusSystem&show_icons=true&theme=solarized-dark#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
