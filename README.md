@@ -5,6 +5,7 @@ If you wanna hit me up, you can add me on the following:
 * **Discord:** thesiriussystem
 * **Steam:** [TheSiriusSystem](https://steamcommunity.com/id/thesiriussystem/)
 
+# ...
 ![Views](https://komarev.com/ghpvc/?username=TheSiriusSystem)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=TheSiriusSystem&show_icons=true&theme=synthwave)
