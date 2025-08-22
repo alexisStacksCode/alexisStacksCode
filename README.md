@@ -1,5 +1,5 @@
 ### Hi there 👋
-**[My Pronouns](https://en.pronouns.page/@thesiriussystem)**
+**[My Pronouns](https://en.pronouns.page/@alexisStacksCode)**
 
 If you wanna hit me up, you can add me on the following:
 * **Discord:** thesiriussystem
@@ -8,7 +8,7 @@ If you wanna hit me up, you can add me on the following:
 # ...
 ![Views](https://komarev.com/ghpvc/?username=TheSiriusSystem)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TheSiriusSystem&show_icons=true&theme=synthwave)
+![Stats](https://github-readme-stats.vercel.app/api?username=alexisStacksCode&show_icons=true&theme=synthwave)
 
 <!--
 **TheSiriusSystem/TheSiriusSystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
