@@ -6,7 +6,7 @@ If you wanna hit me up, you can add me on the following:
 * **Steam:** [TheSiriusSystem](https://steamcommunity.com/id/thesiriussystem/)
 
 # ...
-![Views](https://komarev.com/ghpvc/?username=TheSiriusSystem)
+![Views](https://komarev.com/ghpvc/?username=alexisStacksCode)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alexisStacksCode&show_icons=true&theme=synthwave)
 
